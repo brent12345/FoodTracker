@@ -3,6 +3,11 @@
 > A Vue.js project
 
 ## Build Setup
+npm i bootstrap-vue@2.0.0-rc.11
+npm install @okta/okta-vue@1.0.1
+npm install axios --save
+dotnet new webapi
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 2.1.1
 
 ``` bash
 # install dependencies
